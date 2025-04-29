@@ -8,6 +8,7 @@ Identify the most common ratings for movies and TV shows.
 List and analyze content based on release years, countries, and durations.
 Explore and categorize content based on specific criteria and keywords.
 # Schema
+***sql
 create table netflix1(
 show_id varchar(6),
 type  varchar(10),
@@ -22,6 +23,7 @@ duration varchar(15),
 listed_in varchar(100),
 description varchar(250)
 );
+***
 # Business Problems and Solutions
 --1. How many total shows (Movies + TV Shows) are there?
 
