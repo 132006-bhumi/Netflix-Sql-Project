@@ -5,7 +5,7 @@ This project is focused on analyzing Netflix's movies and TV shows using Postgre
 # 🔍 Project Summary
 Netflix is one of the largest streaming platforms in the world, offering a wide variety of content across genres, countries, and formats. In this project, I’ve worked with a dataset containing detailed information about Netflix shows and movies to explore meaningful patterns and answer real business-related questions using SQL on a PostgreSQL database.
 # 🎯 What This Project Covers
-• The purpose of this project is to:
+The purpose of this project is to:
 
 • Explore how Netflix's content is divided between movies and TV shows.
 
@@ -20,6 +20,33 @@ Netflix is one of the largest streaming platforms in the world, offering a wide 
 • Filter content by specific keywords, names, or categories.
 # ❓ Key Questions Explored
 During the analysis, I focused on answering these questions:
+✦ How many total shows (Movies + TV Shows) are there?
+
+✦ How many movies and TV shows are there separately?
+
+✦ What are the top 10 countries with the most Netflix shows?
+
+✦ Find the oldest show available on Netflix?
+
+✦ Find the most recent show added to Netflix?
+
+✦ List all shows directed by 'Rajkumar Hirani'.
+
+✦ How many shows have a rating of 'TV-MA'?
+
+✦ Find all the shows where 'Shah Rukh Khan' is in the casts.
+
+✦ List the top 10 directors with the most shows.
+
+✦ List the shows that belong to the 'Drama' category.
+
+✦ Count of shows released each year.
+
+✦ Find shows with no director mentioned.
+
+✦ Find all shows that were added in September.
+
+✦ Find the top 5 countries with the most content on Netflix.
 # 💡 Key Findings
 • The platform hosts a larger number of movies compared to TV shows.
 
