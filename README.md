@@ -1,5 +1,6 @@
 # 📊 Netflix Data Analysis Project (Using PostgreSQL)
 ![Netflix Logo](https://github.com/132006-bhumi/netflix_sql_project/blob/main/download%20(3).jpeg)
+
 This project is focused on analyzing Netflix's movies and TV shows using PostgreSQL. The goal is to extract insights from the dataset that can help understand trends in content distribution, ratings, genres, countries, and other important factors.
 # 🔍 Project Summary
 Netflix is one of the largest streaming platforms in the world, offering a wide variety of content across genres, countries, and formats. In this project, I’ve worked with a dataset containing detailed information about Netflix shows and movies to explore meaningful patterns and answer real business-related questions using SQL on a PostgreSQL database.
